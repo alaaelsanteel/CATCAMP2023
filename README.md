@@ -40,6 +40,7 @@ Now that you forked the repo, don't be scared to tip your toes in :)
 Your first task will be installing the environment and running the server, how about that?
 
 **TASK:** Run the Django server and provide a screenshot of what you see here 👇
+<img src="ServerSchreenshot.png">
 
 <br>
 
